@@ -19,9 +19,9 @@ public class HelloWorld {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		// TODO Auto-generated method stub
-system.out.println("This is my first java program");
+           System.out.println("This is my first java program");
 	}
 
 }
